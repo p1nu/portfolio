@@ -27,7 +27,7 @@ function App() {
             <div className="relative">
               <div className="absolute inset-0 bg-gradient-to-r from-blue-600 to-purple-600 rounded-full blur-xl opacity-30 animate-pulse fade-in-left"></div>
               <img
-                src="/public/profile.jpg"
+                src="/profile.jpg"
                 alt="Pich"
                 className="relative w-64 h-64 rounded-full object-cover border-4 border-white shadow-2xl fade-in-left"
               />
